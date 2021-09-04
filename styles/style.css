@@ -29,3 +29,17 @@
   margin-right: 0;
   margin-top: 80px;
 }
+
+.font-inter {
+  font-family: 'Inter', sans-serif;
+  margin: 0;
+  font-size: larger;
+}
+
+.font-inter-bold {
+  font-weight: bold;
+}
+
+.font-inter-bolder {
+  font-weight: bolder;
+}
