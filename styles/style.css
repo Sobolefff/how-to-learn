@@ -4,7 +4,7 @@
   border: 1px solid red;
 }*/
 .page {
-  min-width: 1440px;
+  min-width: 1600px;
   /* мы ещё не умеем делать мобильную версию сайта, */
   /* поэтому выше установлена минимальная ширина страницы */
   max-width: 1600px;
@@ -31,16 +31,10 @@
   width: 568px;
 }
 
-/* и элемента с модификатором вида ключ-значение */
-.table__cell_theme_dark {
-  width: 200px;
-  color: white;
-  margin-right: 0;
-  margin-top: 80px;
-}
+
+
 
 .description {
-  border: 1px solid #1f1f1f;
   margin: 100px 0 0;
   display: flex;
 }
@@ -82,8 +76,7 @@
 }
 
 .digits {
-  border: 1px solid #1f1f1f;
-  margin: 100px 0 0;
+  margin: 100px 0 100px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -93,6 +86,10 @@
   display: flex;
   margin: 0;
   width: 60%;
+}
+
+.section-title__theme_dark {
+  margin-top: 90px;
 }
 
 .title {
@@ -123,11 +120,21 @@
   align-items: baseline;
 }
 
+.table__theme_dark {
+  margin-bottom: 90px;
+}
+
 .cell {
   display: flex;
   width: 250px;
   flex-direction: column;
   margin-top: 60px;
+}
+
+.cell__theme_dark {
+  width: 200px;
+  margin-right: 0;
+  margin-top: 80px;
 }
 
 .heading {
@@ -142,4 +149,17 @@
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
+}
+
+.kaufman {
+  display: flex;
+  margin: 90px 0 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.kaufman_theme_dark {
+  background-color: #1f1f1f;
+  color: white;
 }
