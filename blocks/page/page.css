@@ -9,6 +9,15 @@
     margin: 0 auto;
     /* выше для экранов больше 1600px отцентрировали весь контент */
     font-family: Inter, Arial, Helvetica, sans-serif;
+    
+  }
+
+  :root {
+    --font-color-black: #000000;
+    --font-color-white: white;
+    --font-color-link: #2f80ed;
+    --background-color-dark: #1f1f1f;
+    --background-color-light: #f2f2f2;
   }
 
   div, section, ul, li, h1, h2, h3 {
@@ -24,3 +33,4 @@
     margin: 0;
     padding: 0;
   }
+
