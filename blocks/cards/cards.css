@@ -1,7 +1,7 @@
 .cards {
-    width: 80%;
+    width: 920px;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     flex-wrap: wrap;
     align-content: stretch;
 }
