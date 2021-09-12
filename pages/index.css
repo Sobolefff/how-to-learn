@@ -43,6 +43,14 @@
 @import url(../blocks/resources/__logo/resources__logo.css);
 
 @import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__columns/footer__columns.css);
+@import url(../blocks/footer/__columns/_space/footer__columns_space.css);
+@import url(../blocks/footer/__column/footer__column.css);
+@import url(../blocks/footer/__column/_content/footer__column_content_copyright.css);
+@import url(../blocks/footer/_theme/footer_theme_dark.css);
+@import url(../blocks/logo/_place/logo_place_footer.css);
+@import url(../blocks/footer/__author/_space/footer__author_space.css);
+@import url(../blocks/footer/__author/footer__author.css);
 
 @import url(../blocks/section-title/section-title.css);
 
