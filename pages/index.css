@@ -1,3 +1,4 @@
+@import url(../vendor/normalize.css);
 @import url(../blocks/page/page.css);
 
 @import url(../blocks/header/header.css);
@@ -24,7 +25,7 @@
 @import url(../blocks/cards/__image/cards__image.css);
 @import url(../blocks/cards/__title/cards__title.css);
 @import url(../blocks/cards/__description/cards__description.css);
-@import url(../blocks/cards/__description/_space/cards__description_space_top.css)
+@import url(../blocks/cards/__description/_space/cards__description_space_top.css);
 
 @import url(../blocks/digits/digits.css);
 @import url(../blocks/kaufman/kaufman.css);
