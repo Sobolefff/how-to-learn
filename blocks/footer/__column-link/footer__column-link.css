@@ -1,7 +1,10 @@
 .footer__column-link {
-  display: block;
   text-decoration: none;
   color: white;
   opacity: 1;
   transition: opacity 0.5s;
+  line-height: 18px;
+  font-size: 18px;
+  display: flex;
+  align-items: stretch;
 }

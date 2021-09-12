@@ -20,11 +20,11 @@
     --background-color-light: #f2f2f2;
   }
 
-  div, section, ul, li, h1, h2, h3, p, img {
+  div, section, ul, li, h1, h2, h3, p, img, a {
     border: 1px solid red;
   }
   
- h1, h2, h3, h4, p {
+ h1, h2, h3, h4, p, a, img {
     margin: 0;
   }
   
