@@ -1,4 +1,4 @@
-.header__square-pic {
+.rotation {
     animation-name: rotation;
     animation-duration: 20s;
     animation-timing-function: linear;
