@@ -1,5 +1,5 @@
 .page {
-    min-width: 1100px;
+    min-width: 1600px;
     /* мы ещё не умеем делать мобильную версию сайта, */
     /* поэтому выше установлена минимальная ширина страницы */
     max-width: 1600px;
@@ -21,9 +21,9 @@
     opacity: .5;
   }
 
-  /*div, section, ul, li, h1, h2, h3, p, img, a {
+  div, section, ul, li, h1, h2, h3, p, img, a {
     border: 1px solid red;
-  }*/
+  }
   
  h1, h2, h3, h4, p, a, address {
     margin: 0;

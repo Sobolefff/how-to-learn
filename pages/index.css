@@ -61,12 +61,12 @@
 
 @import url(../blocks/digits/digits.css);
 @import url(../blocks/kaufman/kaufman.css);
-@import url(../blocks/kaufman/_theme/kaufman_theme_dark.css);
 @import url(../blocks/kaufman/__triangle/kaufman__triangle.css);
 
 @import url(../blocks/table/table.css);
 @import url(../blocks/table/_place/table_place_kaufman.css);
 @import url(../blocks/table/__cell/table__cell.css);
+@import url(../blocks/kaufman/_theme/kaufman_theme_dark.css);
 @import url(../blocks/table/__cell/_theme/table__cell_theme_dark.css);
 @import url(../blocks/table/__heading/table__heading.css);
 @import url(../blocks/table/__text/table__text.css);
