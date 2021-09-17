@@ -6,8 +6,16 @@
   line-height: 18px;
   font-size: 18px;
   display: flex;
+  margin: 0;
+  text-decoration: none;
+  opacity: 1;
+  transition: opacity 0.5s;
 }
 
 .footer__column-link:nth-of-type(2n) {
   margin: 10px 0;
+}
+
+.footer__column-link:hover {
+  opacity: .5;
 }
