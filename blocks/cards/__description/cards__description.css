@@ -3,3 +3,7 @@
     line-height: 23px;
     font-size: 18px;
 }
+
+.cards__description:first-of-type {
+    margin: 16px 0 0;
+}
